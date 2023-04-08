@@ -139,6 +139,7 @@
 
                 <ImageView
                     android:id="@+id/imageView10"
+                    android:onClick="urgent"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
